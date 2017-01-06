@@ -1,0 +1,26 @@
+{
+  "name": "node_sql",
+  "version": "1.0.0",
+  "description": "用于理解node-mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wk633/node_sql.git"
+  },
+  "keywords": [
+    "node-mysql"
+  ],
+  "author": "kai wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wk633/node_sql/issues"
+  },
+  "homepage": "https://github.com/wk633/node_sql#readme",
+  "dependencies": {
+    "mysql": "^2.12.0",
+    "node-mysql": "^0.4.2"
+  }
+}
